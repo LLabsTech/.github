@@ -22,7 +22,7 @@ We open-source the things we need every day: lightweight Swift services, self-ho
 
 | Repo | What it does | Tech |
 |------|--------------|------|
-| **Trae Swift Agent** | Swift implementation of Bytedance’s Trae Agent with 100 % feature parity & compile-time safety | Swift |
+| **Neuronaut** | Swift based wrapper for Bytedance’s Trae Agent in Telegram | Swift |
 | **SwiftLlama** | Thin, Swifty wrapper around llama.cpp for on-device inference | Swift · C++ |
 | **llama.cpp** *(Jetson fork)* | CUDA 10.2-compatible build for Jetson Nano 4 GB | C++ |
 | **PythonKit** *(fork)* | Smooth Swift ↔︎ Python interop for data-science glue code | Swift |
