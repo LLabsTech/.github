@@ -11,7 +11,7 @@ We open-source the things we need every day: lightweight Swift services, self-ho
 | Domain | Current Focus |
 | ------ | ------------- |
 | **Server-Side Swift** | • Micro-services with Vapor & Hummingbird (e.g. 🌨️ *SnowCover API* powered by Sentinel data)<br>• **SRM** – a Swift replacement for pm2 with auto-restart & startup helpers |
-| **Local & Edge AI** | • Jetson-ready fork of **llama.cpp** (CUDA 10.2)<br>• **SwiftLlama** – idiomatic Swift wrapper for llama.cpp<br>• **Trae Swift Agent** – type-safe Swift port of Bytedance’s Trae Agent for AI-driven software-engineering automation |
+| **Local & Edge AI** | • Jetson-ready fork of **llama.cpp** (CUDA 10.2)<br>• **SwiftLlama** – idiomatic Swift wrapper for llama.cpp<br>• **Neuronaut** – Swift wrapper for Bytedance’s Trae Agent in Telegram |
 | **Mobile & Cross-Platform** | • iOS sports-tracking, map solutions, all kinds of navigation & AR prototypes<br>• VR prototypes with SwiftGodot on Apple Vision / Meta Quest<br>• React-Native + Python back-ends for LLM micro-services |
 | **Game Tech** | • Godot 4 + SwiftGodot R&D for 2D RPG/strategy games & terrain generation<br>• Unique *Unity as a Framework* integration to embed Unity into any iOS view<br>• Home-IoT experiments, including hardware setup and selection |
 | **Home-Lab / Dev-Ops** | • Raspberry Pi / Jetson clusters for distributed LLM inference<br>• NGINX, Docker, systemd & PM2 playbooks<br>• Automated deployment scripts and Telegram bot monitors |
